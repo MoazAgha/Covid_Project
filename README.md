@@ -2,6 +2,7 @@
 
 # Covid Project
 The Covid Project is a representation of SQL and Tableau skills. The project contains data about the global pandemic affect on the entire world, from death counts and population infection rate to vaccinations affect and rate.  
+
 We have done the following:
 
 1-	Getting the data from Our World in Data official website.
