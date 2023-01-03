@@ -5,7 +5,7 @@ The Covid Project is a representation of SQL and Tableau skills. The project con
 
 We have done the following:
 
-1-	Getting the data from Our World in Data official website.
+1-	Getting the data from "Our World in Data" official website.
 
 2-	Importing the dataset into SQL. 
 
