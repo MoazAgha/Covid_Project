@@ -6,7 +6,8 @@ The Covid Project is a representation of SQL and Tableau skills. The project con
 We have done the following:
 
 1-	Getting the data from "Our World in Data" official website.
-Link to the [Covid Deaths] (https://ourworldindata.org/covid-deaths) and [Covid Vaccinations] (https://ourworldindata.org/covid-vaccinations) Datasets
+
+(Link to the [Covid Deaths](https://ourworldindata.org/covid-deaths) and [Covid Vaccinations](https://ourworldindata.org/covid-vaccinations) Datasets)
 
 2-	Importing the dataset into SQL. 
 
