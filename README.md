@@ -13,5 +13,4 @@ We have done the following:
 
 4-	Exporting code to GitHub.
 
-5-	Visualizing our results on Tableau (Click Here to View). 
-[Click Here to View](https://public.tableau.com/app/profile/moaz.agha/viz/CovidDashboard_16726994263800/Dashboard1?publish=yes)
+5-	Visualizing our results on Tableau [(Click Here to View)](https://public.tableau.com/app/profile/moaz.agha/viz/CovidDashboard_16726994263800/Dashboard1?publish=yes).
