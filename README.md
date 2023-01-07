@@ -16,3 +16,7 @@ We have done the following:
 4-	Exported our code to GitHub for sharing and collaboration.
 
 5-	isualized our findings in a dashboard on Tableau, which provides a clear and interactive representation of our results. [(Click Here to View)](https://public.tableau.com/app/profile/moaz.agha/viz/CovidDashboard_16726994263800/Dashboard1?publish=yes).
+
+
+
+The final dashboard provides a detailed overview of the Covid pandemic, and highlights the key trends and insights that we have identified through our analysis. The project showcases the ability to effectively use SQL and Tableau to analyze and present data, and we hope that it will be useful for others who are interested in understanding the impact of the pandemic."
